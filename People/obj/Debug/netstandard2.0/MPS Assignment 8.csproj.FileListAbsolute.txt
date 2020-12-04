@@ -1,0 +1,12 @@
+C:\Users\Shaqeel less\Documents\New folder (6)\People\bin\Debug\netstandard2.0\MPS Assignment 8.deps.json
+C:\Users\Shaqeel less\Documents\New folder (6)\People\bin\Debug\netstandard2.0\MPS Assignment 8.dll
+C:\Users\Shaqeel less\Documents\New folder (6)\People\bin\Debug\netstandard2.0\MPS Assignment 8.pdb
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\MPS Assignment 8.csprojAssemblyReference.cache
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\MPS Assignment 8.AssemblyInfoInputs.cache
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\MPS Assignment 8.AssemblyInfo.cs
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\MPS Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\MPS Assignment 8.dll
+C:\Users\Shaqeel less\Documents\New folder (6)\People\obj\Debug\netstandard2.0\MPS Assignment 8.pdb

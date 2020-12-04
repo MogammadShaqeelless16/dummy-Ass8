@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cHlfYhciUNPbIAXUS3tz/SkNyFK9QZ3lwKMDabTtA1b9uzs1WqUP3Tl72hmx1aqcaV8go3OrQO2p9kXo4/3mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shaqeel less\\Documents\\New folder (6)\\People.iOS\\MPS Assignment 8.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shaqeel less\\.nuget\\packages\\sqlite-net-pcl\\1.5.231\\sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "C:\\Users\\Shaqeel less\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.11\\sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "C:\\Users\\Shaqeel less\\.nuget\\packages\\sqlitepclraw.core\\1.1.11\\sqlitepclraw.core.1.1.11.nupkg.sha512",
+    "C:\\Users\\Shaqeel less\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.11\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
+    "C:\\Users\\Shaqeel less\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Shaqeel less\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\Shaqeel less\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": []
+}
